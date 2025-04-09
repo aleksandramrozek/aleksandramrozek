@@ -1,5 +1,8 @@
 ## Hi there 👋
-# This is a test
+### This is a test
+
+* coding is great! *
+
 <!--
 **aleksandramrozek/aleksandramrozek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
