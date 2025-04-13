@@ -9,19 +9,19 @@ That is actually a joke....
 
 ### I am currently working on 🎆:
 - Learning and understanding how **GitHub works**
-- How to code in **Pycharm**
-- How to use Markdown in a creative way
-- How to clone repositories
+- Getting familiar with coding in **PyCharm**
+- Using Markdown in creative ways
+- Cloning repositories and understanding Git workflows
 
 ---
 
 ### Fun fact about me:
-My favourite dish are 🥟🥟🥟
+My favourite dish is 🥟🥟🥟
 
 ---
 
 ### How to reach me 📮 ?
-email - aleksandra.mrozek@stud.leuphana.de
+email - aleksandra.mrozek@stud.leuphana.de](mailto:aleksandra.mrozek@stud.leuphana.de)
 
 Thank you for visiting my GitHub profile <3
 
