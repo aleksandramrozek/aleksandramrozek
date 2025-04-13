@@ -1,5 +1,5 @@
 # Hi there 👋
-## This is a test... ;-)
+## Welcome to my ✨ GitHub repository ✨
 
 I’m currently working on how to operate in GitHub and Pycharm for my Tech Basics Class 2nd semester 🚀! 
 Can't wait to become as good at programming as Moritz Zimmermann from HTSD (online) 💊 
