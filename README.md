@@ -21,9 +21,9 @@ My favourite dish is 🥟🥟🥟
 ---
 
 ### How to reach me 📮 ?
-email - aleksandra.mrozek@stud.leuphana.de]
+E-mail - aleksandra.mrozek@stud.leuphana.de]
 
-Thank you for visiting my GitHub profile <3
+Thank you for visiting my GitHub profile 💕
 
 
 
