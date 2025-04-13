@@ -1,7 +1,12 @@
 ## Hi there 👋
-### This is a test
+### This is a test... ;-)
 
-I’m currently working on ... learning this programme!
+I’m currently working on how to operate in GitHub and Pycharm for my Tech Basics Class 2nd semester 🚀! 
+Can't wait to become as good at programming as Moritz Zimmermann from HTSD (online) 💊 
+That is actually a joke.... 
+
+<!--
+
 
 <!--
 **aleksandramrozek/aleksandramrozek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
